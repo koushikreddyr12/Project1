@@ -1,0 +1,34 @@
+.button-width{
+    width:327px;
+}
+
+.header-padding-top {
+	padding-top:150px;
+}
+
+.sub-header-padding-top {
+	padding-top:30px;
+}
+
+.padding-top-button {
+	padding-top:35px;
+}
+
+@media (max-width: 767px){ 
+
+	.button-width{
+		width:100%;
+	}
+	
+	.header-padding-top {
+		padding-top:100px;
+	}
+	
+	.sub-header-padding-top {
+		padding-top:20px;
+	}
+	
+	.padding-top-button {
+		padding-top:20px;
+	}
+}
